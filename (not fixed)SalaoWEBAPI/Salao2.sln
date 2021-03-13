@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salao2", "Salao2\Salao2.csproj", "{7DE07562-AA3A-44B6-9864-A2FD6060AB27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "salao.Domain", "salao.Domain\salao.Domain.csproj", "{5D5AF98B-9AC0-474C-B3AE-399B3A25FF6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "salao.Data", "salao.Data\salao.Data.csproj", "{6F028D8A-7F9A-4515-B1F0-565BC60DD020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DE07562-AA3A-44B6-9864-A2FD6060AB27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE07562-AA3A-44B6-9864-A2FD6060AB27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE07562-AA3A-44B6-9864-A2FD6060AB27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE07562-AA3A-44B6-9864-A2FD6060AB27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D5AF98B-9AC0-474C-B3AE-399B3A25FF6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D5AF98B-9AC0-474C-B3AE-399B3A25FF6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D5AF98B-9AC0-474C-B3AE-399B3A25FF6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D5AF98B-9AC0-474C-B3AE-399B3A25FF6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F028D8A-7F9A-4515-B1F0-565BC60DD020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F028D8A-7F9A-4515-B1F0-565BC60DD020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F028D8A-7F9A-4515-B1F0-565BC60DD020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F028D8A-7F9A-4515-B1F0-565BC60DD020}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2BF4E21-CDB1-43FE-9CEE-D04CEDE539C1}
+	EndGlobalSection
+EndGlobal

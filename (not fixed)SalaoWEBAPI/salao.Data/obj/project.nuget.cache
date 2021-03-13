@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "khFbKqeXG639TLSPbgV+rCYLAzQBZZXBRr8r6dn50sOx81ncYl534G6cWTKoNBImaMw6dnYci+FT5gtd1j7ulg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\viiic\\source\\repos\\Salao2\\salao.Data\\salao.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\viiic\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\viiic\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\viiic\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

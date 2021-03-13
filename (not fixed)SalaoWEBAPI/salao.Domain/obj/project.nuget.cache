@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bKpWaXyTQrj3bthNUB3vja/H7EUhoRFEp2DBB5xJwHw9XJf7ULhKCH7c0/AL9nMAy8VSo49+zZpDgMnJDTdOiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\viiic\\source\\repos\\Salao2\\salao.Domain\\salao.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\viiic\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\viiic\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
